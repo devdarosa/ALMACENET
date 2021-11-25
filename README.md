@@ -1,2 +1,4 @@
 # ALMACENET
-Desarrollo de la aplicación ALMACENET
+Aquí se llevará acabo el desarrollo y puesta en funcionamiento de un aplicativo Web, cuya implementación y funcionamiento permitirá al personal del Área de Ventas llevar un control acerca de sus pedidos de atención al cliente, además de que mantendrá informado al cliente del estado de cada una de los pedidos solicitados hacia la empresa y de esta manera se estará mejorando el proceso de Atención al Cliente en la empresa COLCEMENTOS.
+
+El aplicativo Web permite dar solución al problema de la demora en la atención, seguimiento de los pedidos, el control del tiempo atención de un pedido, que a su vez permite controlar y analizar las quejas o sugerencias dadas por los clientes para tomar las medidas correctivas a tiempo y de esta forma se puede controlar el flujo de interacciones en el negocio. Con los resultados obtenidos se tiene la posibilidad de proponer cambios en la atención al cliente. 
